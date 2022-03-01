@@ -6,4 +6,6 @@ la proxima semana es clave
 
 Master 1
 
+Master 2
+
 Hola soy LC, una version de mi mismo con proposito de desarrollo y participare como contribuidor en este proyecto open source.
